@@ -34,17 +34,16 @@ Me chamo Gabrielle Queiroz Mourão, tenho 15 anos e sou natural do Ceará. Sou e
 <br/>
 </p>
 
-
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Aprendendo,+criando+e+evoluindo..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Seja+bem-vindo(a)+ao+meu+GitHub!;Aprendendo,+criando+e+evoluindo..." />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=4500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=No+matter+what+anyone+says,+words+and+ideas+can+change+the+world." />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=4500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=No+matter+what+anyone+says,+words+and+ideas+can+change+the+world." />
 </p>
 
 <p align="center">
@@ -53,4 +52,3 @@ Me chamo Gabrielle Queiroz Mourão, tenho 15 anos e sou natural do Ceará. Sou e
 
 <br>
 ```
-
